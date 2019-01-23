@@ -7,7 +7,7 @@ const Nav = () => {
    
     <header className="App-header">
           <Typography   color="primary" component="h2" variant="h1" className="header-title" gutterBottom>
-          Books - NYT/Google
+          Google Books
           </Typography>
     </header>
    
